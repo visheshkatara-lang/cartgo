@@ -1,0 +1,6 @@
+{
+  "name": "Hyperlocal Grocery Delivery",
+  "description": "A high-fidelity hyper-local grocery delivery application with real-time order tracking, responsive animations, category browsing, cart checkout, and simulation of instant transit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
